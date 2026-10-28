@@ -1,0 +1,46 @@
+*{
+    font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+h1{
+    color:#0B1A82;
+    text-align: center;
+}
+.header{
+    color: #334155;
+    text-align: center;
+}
+.Pop{
+    text-align: center;
+    color: #037324;
+    text-decoration: underline;
+}
+div{
+    background-color: #6ED0F6;
+    height:300px;
+    width:600px;
+    border-radius: 12px;
+}
+h2,h3{
+    color:#037324
+}
+div p{
+    color: #58798E;
+}
+ul{
+    color:#8B1318
+}
+.goa{
+    text-align: center;
+    color: #8B1318;
+}
+.tip p:before{
+    color: #037324;
+    content: "Tips";
+    font-weight: 600;
+}
+a{
+    text-decoration: none;
+}
